@@ -1,0 +1,4 @@
+version="0.0.1"
+author="Vex"
+disease_api_version="v3"
+countries=["Albania","Argentina","Australia","Austria","Belgium","Brazil","Bulgaria","Cambodia","Canada","Chile","Colombia","Croatia","Czechia","Denmark","Egypt","Estonia","Finland","France","Germany","Greece","Hong Kong","Hungary","Iceland","India","Indonesia","Ireland","Israel","Italy","Japan","Latvia","Lithuania","Luxembourg","Macao","Malaysia","Mexico","Morocco","Netherlands","New Zealand","Norway","Philippines","Poland","Portugal","S. Korea","Romania","Russia","Saudi Arabia","Serbia","Singapore","Slovakia","Slovenia","South Africa","Spain","Sweden","Switzerland","Taiwan","Thailand","Turkey","Ukraine","UAE","UK","USA","Uruguay","Vietnam"]
